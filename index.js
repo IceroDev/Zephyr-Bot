@@ -4,6 +4,7 @@ const fs = require("fs");
 
 const client = new Discord.Client();
 const config = require("./config.json");
+const tokens = require("./tokens.json")
 client.config = config;
 
 fs.readdir("./events/", (err, files) => {
@@ -28,4 +29,4 @@ fs.readdir("./commands/", (err, files) => {
   });
 });
 
-client.login(config.token);
+client.login(tokens.bot);

@@ -1,0 +1,128 @@
+{
+"general":{
+        "footer":" • made with ❤️ by Jean",
+        "WA":"is not valid"
+    },
+"colors":[
+    "#DE162B",
+    "#E44F2C",
+    "#F2A432",
+    "#FCC933",
+    "#C7C839",
+    "#7AB440",
+    "#189CB1",
+    "#1CA9E1",
+    "#31BAD4"
+],
+"charts":{
+    "title":"🔖 Charts for ",
+    "errNA":"This command asks for an argument.",
+    "errNE":":x: this code is invalid",
+    "loading":"<a:chargement:790160509978279937> loading your in progress request."
+},
+"info":{
+    "errNA":"This command asks for an argument.",
+    "errNE":":x: this code is invalid",
+    "loading":"<a:chargement:790160509978279937> loading your in progress request.",
+    "title":"ℹ️ Information for the airport ",
+    "f1":"🏘️ City : ",
+    "f2":"⤴️ Elevation",
+    "f3":"❓ Name",
+    "f35":"🕐 Local time",
+    "f4":"🛫 Runway",
+    "f5":"• **length**",
+    "f6":"• **width**",
+    "link":"🔗 Links",
+    "nE":"No website has been founded for this airport",
+    "nW":"No wikipedia page has been founded for this airport"
+},
+"metar":{
+    "errNA":"This command asks for an argument.",
+    "errNE":":x: this code is invalid",
+    "loading":"<a:chargement:790160509978279937> loading your in progress request.",
+    "title":"ℹ️ Metar for airport",
+    "f1":"✈️ Flight rule",
+    "f2":"🌬️ Winds",
+    "f20":"• **Direction :**",
+    "f21":"• **Speed**",
+    "f3":"☁️ Cloud",
+    "f4":"• **Type**",
+    "f5":"• **Elevation**",
+    "f6":"⏱️ Altimeter",
+    "f7":"🌡️ Temperatures",
+    "f8":"👁️ Visibility",
+    "f9":"⏳ Last data update",
+    "f90":"at",
+    "d1":"**Full Name**"
+},
+"feedback":{
+    "title":"Feedback sent!",
+    "title2":"Feedback received!",
+    "desc":"Thank you very much for your feedback.",
+    "f1":"From the server :",
+    "from":"Content"
+},
+"aircraft":{
+    "loading":"<a:chargement:790160509978279937> loading your in progress request.",
+    "errDB":"This aircraft does not exist in our database. Want to add it ? Please contact us from our [Discord Server](https://discord.gg/ZwHT68H2FC)",
+    "errDBT":"Error",
+    "title":"✈️ Aircraft informations about ",
+    "f1":"Model",
+    "f2":"Type",
+    "f3":"Serial Number",
+    "f4":"Manufacturer",
+    "f5":"Operator",
+    "f6":"Owner",
+    "f7":"Built",
+    "f8":"Engines",
+    "f9":"Category",
+    "cET":"Error",
+    "cE":"A critical error has occured. Please contact us from our [Discord Server](https://discord.gg/ZwHT68H2FC)"
+},
+"flight":{
+    "loading":"<a:chargement:790160509978279937> loading your in progress request.",
+    "errDB":"I can't find any flight with that IATA code",
+    "errDBT":"Error",
+    "title":"✈️ Flight",
+    "desc":"🛫 Departure Informations :",
+    "f1":"Boarding",
+    "f1a":"Terminal",
+    "f1b":"Gate",
+    "f2":"🛬 Arrival Informations :",
+    "f2a":"Arrival",
+    "f3":"🕚 Times :",
+    "f3a":"• **Local departure country time** :",
+    "f3b":"• **Local arrival country time** :",
+    "f3c":"• **Local departure country landing estimated time** :",
+    "f4c":"• **Local arrival country landing estimated time** :",
+    "cET":"Error",
+    "cE":"A critical error has occured. Please contact us from our [Discord Server](https://discord.gg/ZwHT68H2FC)"
+},
+"help":{
+    "title":"help page",
+    "h1":"Get informations about an aircraft by his registration number",
+    "h2":"Get airport charts by giving me an icao code",
+    "h3":"Any suggestion ? Want to add an aircraft to our database ? Send us a mail with the feedback command !",
+    "h4":"Get information about a flight with an iata code",
+    "h5":"Get informations about an airport",
+    "h6":"Get the metar report from an airport",
+    "h7":"Get the bot statistics about ressource usage and other geek things."
+},
+"ping":{
+    "loading":"<a:chargement:790160509978279937> loading your in progress request.",
+    "title":"__**System Informations**__",
+    "f1":"Ressources",
+    "f2":"Memory",
+    "f3":"CPU Usage",
+    "f4":"Internet speed"
+},
+"prefix":{
+    "err1":"you must specify a new prefix",
+    "err2":"is already the current prefix"
+},
+"locale":{
+    "err1":"you must specify a new locale",
+    "err2":"is not an existing locale in my files. Existing locales: `en, fr`.",
+    "err3":"the local is already in English"
+}
+}

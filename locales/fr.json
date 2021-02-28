@@ -1,0 +1,128 @@
+{
+"general":{
+    "footer":" • fait avec ❤️ par Jean",
+    "WA":"n'est pas valide"
+},
+"colors":[
+    "#DE162B",
+    "#E44F2C",
+    "#F2A432",
+    "#FCC933",
+    "#C7C839",
+    "#7AB440",
+    "#189CB1",
+    "#1CA9E1",
+    "#31BAD4"
+],
+"charts":{
+    "title":"🔖 Chartes pour ",
+    "errNA":"Cette commande demande un argument.",
+    "errNE":":x: ce code est invalide",
+    "loading":"<a:chargement:790160509978279937> chargement de votre demande en cours."
+},
+"info":{
+    "errNA":"Cette commande demande un argument.",
+    "errNE":":x: ce code est invalide",
+    "loading":"<a:chargement:790160509978279937> chargement de votre demande en cours.",
+    "title":"ℹ️ Information pour l'aéroport ",
+    "f1":"🏘️ Ville : ",
+    "f2":"⤴️ Altitude",
+    "f3":"❓ Nom",
+    "f35":"🕐 Heure locale",
+    "f4":"🛫 Piste",
+    "f5":"• **longueur**",
+    "f6":"• **largeur**",
+    "link":"🔗 Liens",
+    "nE":"Aucun site web trouvé pour cet aéroport",
+    "nW":"Aucune page wikipedia trouvée pour cet aéroport"
+},
+"metar":{
+    "errNA":"Cette commande demande un argument.",
+    "errNE":":x: ce code est invalide",
+    "loading":"<a:chargement:790160509978279937> chargement de votre demande en cours.",
+    "title":"ℹ️ Metar pour l'aéroport",
+    "f1":"✈️ Règle de vol",
+    "f2":"🌬️ Vents",
+    "f20":"• **Direction :**",
+    "f21":"• **Vitesse**",
+    "f3":"☁️ Nuage",
+    "f4":"• **Type**",
+    "f5":"• **Altitude**",
+    "f6":"⏱️ Altimètre",
+    "f7":"🌡️ Temperatures",
+    "f8":"👁️ Visibilité",
+    "f9":"⏳ Dernière actualisation des données",
+    "f90":"à",
+    "d1":"**Nom complet**"
+},
+"feedback":{
+    "title":"Feedback envoyé !",
+    "title2":"Feedback reçu !",
+    "desc":"Merci beaucoup pour votre feedback.",
+    "f1":"Depuis le serveur :",
+    "from":"Contenu"
+},
+"aircraft":{
+    "loading":"<a:chargement:790160509978279937> chargement de votre demande en cours.",
+    "errDB":"Cet avion n'existe pas dans notre base de données. Vous souhaitez l'ajouter ? Veuillez nous contacter à partir de notre [Serveur Discord](https://discord.gg/ZwHT68H2FC)",
+    "errDBT":"Erreur",
+    "title":"✈️ Informations sur l'appareil ",
+    "f1":"Modèle",
+    "f2":"Type",
+    "f3":"Numéro de série",
+    "f4":"Fabricant",
+    "f5":"Opérateur",
+    "f6":"Propriétaire",
+    "f7":"Construction",
+    "f8":"Moteurs",
+    "f9":"Catégorie",
+    "cET":"Erreur",
+    "cE":"Une erreur critique s'est produite. Veuillez nous contacter à partir de notre [Serveur Discord](https://discord.gg/ZwHT68H2FC)"
+},
+"flight":{
+    "loading":"<a:chargement:790160509978279937> chargement de votre demande en cours.",
+    "errDB":"Je ne trouve aucun vol avec ce code IATA",
+    "errDBT":"Erreur",
+    "title":"✈️ Vol",
+    "desc":"🛫 Informations de départ :",
+    "f1":"Embarquement",
+    "f1a":"Terminal",
+    "f1b":"Porte",
+    "f2":"🛬 Informations d'arrivée :",
+    "f2a":"Arrivée",
+    "f3":"🕚 Heures :",
+    "f3a":"• **Heure locale du pays de départ** :",
+    "f3b":"• **Heure locale du pays d'arrivée** :",
+    "f3c":"• **Heure d'arrivée estimée (heure du pays de départ)** :",
+    "f4c":"• **Heure d'arrivée estimée (heure du pays d'arrivée)** :",
+    "cET":"Erreur",
+    "cE":"Une erreur critique s'est produite. Veuillez nous contacter à partir de notre [Serveur Discord](https://discord.gg/ZwHT68H2FC)"
+},
+"help":{
+    "title":", page d'aide",
+    "h1":"Obtenir des informations sur un avion par son numéro d'immatriculation",
+    "h2":"Obtenir des cartes d'aéroport en me donnant un code icao",
+    "h3":"Une suggestion ? Vous souhaitez ajouter un avion à notre base de données ? Envoyez-nous un mail avec la commande feedback !",
+    "h4":"Obtenir des informations sur un vol avec un code iata",
+    "h5":"Obtenir des informations sur un aéroport",
+    "h6":"Obtenir le rapport metar d'un aéroport",
+    "h7":"Obtenez les statistiques du bot sur l'utilisation des ressources et autres choses geek."
+},
+"ping":{
+    "loading":"<a:chargement:790160509978279937> chargement de votre demande en cours.",
+    "title":"__**Informations sur le système**__",
+    "f1":"Ressources",
+    "f2":"Mémoire",
+    "f3":"Utilisation du CPU",
+    "f4":"Vitesse de l'internet"
+},
+"prefix":{
+    "err1":"vous devez spécifier un nouveau préfixe",
+    "err2":"est déjà le préfixe actuel"
+},
+"locale":{
+    "err1":"vous devez spécifier une nouvelle locale",
+    "err2":"n'est pas une locale existante dans mes fichiers. Locales existantes : `en, fr`",
+    "err3":"la locale est déjà en français"
+}
+}
